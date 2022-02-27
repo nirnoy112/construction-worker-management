@@ -1,0 +1,60 @@
+h2.page-heading {
+
+	color: #808000;
+	text-align: center;
+
+}
+
+h4.page-info {
+
+	color: #4682b4;
+	text-align: center;
+	border-bottom: 1px solid #000000;
+	padding: 10px;
+
+}
+
+h4.modal-heading {
+
+	color: #4682b4;
+	text-align: center;
+
+}
+
+h5.error-message {
+
+	color: #DC143C;
+	text-align: center;
+	padding: 5px;
+
+}
+
+h5.modal-info {
+
+	color: #5D6D7E;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	padding: 10px;
+	background: #ecf0f5;
+
+}
+
+.modal-content {
+
+	min-height: 400px;
+	
+}
+
+#ohs_webcam {
+
+	width: 320px;
+	height: 240px;
+
+}
+
+div.uac-form {
+
+	min-height: 198px;
+
+}
